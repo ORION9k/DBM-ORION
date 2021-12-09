@@ -1,4 +1,4 @@
-# SEJA BEM VINDO!
+# 🗂️ SEJA BEM VINDO! ESTE É O MEU DIRETÓRIO DE RAWS PARA DBM!
 
 > Este é o cantinho do ORION. Aqui vou publicar comandos e eventos em formato "raw" para **Discord Bot Maker**, meu objetivo com isto é trazer base para quem quiser dar o ponta pé inicial neste software.
 
