@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Seja bem vindo a sua central de Discord bot maker!
 
 You can use the [editor on GitHub](https://github.com/ORION9k/DBM-RAWS-ORION/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
