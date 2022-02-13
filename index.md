@@ -1,8 +1,9 @@
-## Seja bem vindo a sua central de Discord bot maker!
+## Seja bem vindo a sua central de Discord bot maker!  
+ 
 
-You can use the [editor on GitHub](https://github.com/ORION9k/DBM-RAWS-ORION/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Este é o cantinho do ORION. Aqui vou publicar comandos e eventos em formato "raw" para **Discord Bot Maker**, meu objetivo com isto é trazer base para quem quiser dar o ponta pé inicial neste software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Todos os comandos aqui disponíveis são versões anteriores (FEITAS POR MIM), de teste ou adequação. Devem ser utilizados como forma de estudo e entendimento, se você conseguiu isto, fique a vontade para utiliza-los.
 
 ### Markdown
 
